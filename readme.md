@@ -3,8 +3,8 @@
 A ROS package for autonomous robot navigation and mapping using the Scout Mini robot configured with Mecanum wheels for omnidirectional movement.
 
 ## Authors
-- Federico Mansutti (10683462)
-- Niccolò Guariglia (10668501)
+- Federico Mansutti
+- Niccolò Guariglia
 
 ## Overview
 
